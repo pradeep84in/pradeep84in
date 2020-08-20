@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Pradeep 👋
 
 <!--
-**pradeep84in/pradeep84in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## I'm a Husband, Father, IT Support professional & Learner !! 
+
+- 🔭 I’m currently working on upskilling my self :boy:!
+- 🌱 I’m currently learning everything 🤣
+- 💬 Ask me about anything 😆
+- ⚡ Fun fact: I love to kill the time 😏 
